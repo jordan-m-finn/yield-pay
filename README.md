@@ -71,5 +71,4 @@ MIT
 
 ## Contact
 
-- Twitter: [@yieldpay](https://twitter.com/yieldpay)
-- Discord: [Join our community](https://discord.gg/yieldpay)
+- Twitter: [@beatstobits](https://twitter.com/beatstobits)
