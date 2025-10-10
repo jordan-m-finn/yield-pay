@@ -20,5 +20,11 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "dependencies": {
+    "convex": "^1.27.5"
   }
 }

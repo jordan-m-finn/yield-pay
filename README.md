@@ -11,6 +11,9 @@ Deposit once. Your crypto generates yield. The yield pays your subscriptions aut
 ## Quick Start
 
 ```bash
+# 0. Node version
+# Requires Node 22 LTS. Use `nvm use` in repo root (see .nvmrc)
+
 # 1. Install dependencies
 npm run setup
 
